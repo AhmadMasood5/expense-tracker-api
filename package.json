@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker-api",
+  "version": "1.0.0",
+  "description": "A simple Express REST API for tracking, categorizing, and splitting expenses.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "node -c src/app.js && node -c src/utils.js && node -c api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "jest": "^29.7.0"
+  }
+}
