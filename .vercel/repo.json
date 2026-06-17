@@ -1,0 +1,11 @@
+{
+  "remoteName": "origin",
+  "projects": [
+    {
+      "id": "prj_UZhLlrn6V0BTTJlMBZRDdvPtojfv",
+      "name": "expense-tracker-api",
+      "directory": ".",
+      "orgId": "team_pw0JlCBqYESvm6AOvRVK0XnQ"
+    }
+  ]
+}

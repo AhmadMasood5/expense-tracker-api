@@ -3,5 +3,4 @@ coverage/
 .vercel/*
 !.vercel/repo.json
 
-.vercel
 .env*
